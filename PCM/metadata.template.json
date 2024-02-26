@@ -19,7 +19,7 @@
     },
     "license": "CERN-OHL",
     "resources": {
-        "homepage": "https://github.com/ebastler/marbastlib"
+        "homepage": "https://github.com/ojthetiny/marbastlib"
     },
     "versions": [{
         "version": "VERSION_HERE",

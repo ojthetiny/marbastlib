@@ -826,7 +826,7 @@
     (property "Value" "MX_SW_solder" (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 0 0 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_1u" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 0 0 0)
